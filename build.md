@@ -1,10 +1,10 @@
 GooglePhotos: 7.82.0.937646388  
 Music-Morphe: 9.15.51  
-Music-Morphe-Experimental: 9.25.50  
+Music-Morphe-Experimental: 9.26.51  
 Prime-Video: 3.0.462.1557  
 Proton-VPN: 5.19.16.0  
 Reddit-Morphe: 2026.14.0  
-Solid-Explorer: 3.5.12  
+Solid-Explorer: 3.5.13  
 YouTube-Morphe: 20.51.39  
 YouTube-Morphe-Experimental: 21.26.363  
 
