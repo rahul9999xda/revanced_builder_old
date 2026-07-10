@@ -4,7 +4,7 @@ Music-Morphe-Experimental: 9.26.55
 Prime-Video: 3.0.462.2547  
 Proton-VPN: 5.19.16.0  
 Reddit-Morphe: 2026.14.0  
-Solid-Explorer: 3.5.13  
+Solid-Explorer: 3.5.14  
 YouTube-Morphe: 20.51.39  
 YouTube-Morphe-Experimental: 21.26.363  
 
@@ -16,8 +16,8 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 Patches: hoo-dles/patches-1.38.2.mpp  
 [Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.38.2)
 
-Patches: MorpheApp/patches-1.33.0.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.33.0)
+Patches: MorpheApp/patches-1.34.0.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.34.0)
 
 CLI: MorpheApp/morphe-cli-1.9.1-all.jar  
 Patches: RookieEnough/patches-1.0.4.mpp  
